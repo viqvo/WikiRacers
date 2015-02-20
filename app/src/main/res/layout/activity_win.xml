@@ -28,4 +28,4 @@
         android:text="Main Menu"
         android:id="@+id/menu_button"/>
 
-</LinearLayout>
+</LinearLayout> 
